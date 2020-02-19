@@ -1,7 +1,7 @@
 ## Sudoku_Solver
 A Sudoku solver implemented in Java. 
 
-Given a Sudoku puzzle with no solutions, one solution, or multiple solutions, the respective solver method in the class solves the puzzle in place using recursive backtracking.
+Given a Sudoku puzzle with no solutions, one solution, or multiple solutions, the respective solver method in the class solves the puzzle in place using brute force recursive backtracking.
 
 To run the sudoku solver, clone the repo and makes sure that you have JDK 8 installed. 
 In the terminal, type the following: 
