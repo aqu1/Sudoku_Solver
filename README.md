@@ -6,10 +6,10 @@ Given a Sudoku puzzle with no solutions, one solution, or multiple solutions, th
 To run the sudoku solver, clone the repo and makes sure that you have JDK 8 installed. 
 In the terminal, type the following: 
 
-javac Sudoku.java
+javac Sudoku.java \
 java Sudoku
 
-When prompted to enter the name of the puzzle file, enter one of the following:
+When prompted to enter the name of the puzzle file, enter one of the following: \
 • puzzle1.txt \
 • puzzle2.txt \
 • multi_sol.txt \
