@@ -15,5 +15,5 @@ When prompted to enter the name of the puzzle file, enter one of the following: 
 • multi_sol.txt \
 • no_solution.txt
 
-When solving a puzzle file with multiple solutions, the Sudoku solver will return the first solution that is found. 
+When solving a puzzle file with multiple solutions, the Sudoku solver will return the first solution that is found. \
 If no solution is present, the current state of the puzzle will be returned. 
